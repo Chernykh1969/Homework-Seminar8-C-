@@ -1,0 +1,15 @@
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\bin\Debug\net6.0\Homework8_5.exe
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\bin\Debug\net6.0\Homework8_5.deps.json
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\bin\Debug\net6.0\Homework8_5.runtimeconfig.json
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\bin\Debug\net6.0\Homework8_5.dll
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\bin\Debug\net6.0\Homework8_5.pdb
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.AssemblyInfoInputs.cache
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.AssemblyInfo.cs
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.dll
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\refint\Homework8_5.dll
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.pdb
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\Homework8_5.genruntimeconfig.cache
+C:\Users\Анатолий\Desktop\C#\Homework\Homework Seminar8  C#\Homework8_5\obj\Debug\net6.0\ref\Homework8_5.dll
